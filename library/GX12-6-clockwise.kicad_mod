@@ -22,4 +22,9 @@
   (pad "4" thru_hole circle (at -2.4 1.4) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp f2f00858-2c63-4562-9c1e-09d9fcb3e347))
   (pad "5" thru_hole circle (at -2.4 -1.4) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp 2685c18e-c605-49b3-afed-ba576dc2fe5e))
   (pad "6" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp 0abffdcb-3324-4a37-ab47-489284403725))
+  (model ":malachi-iot:GX12-6P v2.iges"
+    (offset (xyz 0 0 10))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
