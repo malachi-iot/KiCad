@@ -13,10 +13,14 @@
     (effects (font (size 2.032 2.032) (thickness 0.203)) (justify left))
     (tstamp 54066fdd-a580-45a1-b32a-9d6735e6319a)
   )
+  (fp_line (start -6.5 -6.5) (end -7 -6.5) (layer "F.SilkS") (width 0.12) (tstamp 0276db79-23f2-4cc8-8e39-be71e829dbd8))
+  (fp_line (start -6.5 -6.5) (end -6 -6.5) (layer "F.SilkS") (width 0.12) (tstamp a853877b-5e2d-4832-b562-df0e5533c781))
+  (fp_line (start -6.5 -6.5) (end -6.5 -6) (layer "F.SilkS") (width 0.12) (tstamp cd0819e8-ce46-4030-8a6f-582dde40db09))
+  (fp_line (start -6.5 -6.5) (end -6.5 -7) (layer "F.SilkS") (width 0.12) (tstamp df1b163d-8ea9-4ad5-8200-39b17c2c4bb7))
   (fp_rect (start -8.5 -8.5) (end 8.5 8.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 7ab4bab0-3544-4ab7-9348-ae247988ad06))
   (fp_arc (start 1.663 -5.7) (mid -0.000226 -4.293083) (end -1.663452 -5.7) (layer "F.SilkS") (width 0.25) (tstamp ec84ce7d-ba1a-4d45-904d-a6d5ac2e3ff6))
   (fp_circle (center -6.5 -6.5) (end -5.25 -6.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 0970d388-b1d0-4ff1-aeea-cec22cfcb270))
-  (fp_circle (center 0 0) (end 7.25 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 1352f590-92b7-4afb-b5d4-fd5b2898a178))
+  (fp_circle (center 0 0) (end 8 0) (layer "F.SilkS") (width 0.025) (fill none) (tstamp 1352f590-92b7-4afb-b5d4-fd5b2898a178))
   (fp_circle (center 0 0) (end 6 0) (layer "F.SilkS") (width 0.254) (fill none) (tstamp 75df580a-1ac2-4d05-a633-9ce748cc4bc2))
   (pad "1" thru_hole circle (at 2.4 -1.4) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp ac1e3a34-fe4b-4b87-b4a5-4fed36d78294))
   (pad "2" thru_hole circle (at 2.4 1.4) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp 1ccfd064-e164-4538-acd7-88f8fbc73135))
@@ -24,4 +28,12 @@
   (pad "4" thru_hole circle (at -2.4 1.4) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp f2f00858-2c63-4562-9c1e-09d9fcb3e347))
   (pad "5" thru_hole circle (at -2.4 -1.4) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp 2685c18e-c605-49b3-afed-ba576dc2fe5e))
   (pad "6" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask) (tstamp 0abffdcb-3324-4a37-ab47-489284403725))
+  (group "" (id 302d2e6f-8bc9-49b4-bf6c-3a1d55a81d9e)
+    (members
+      0276db79-23f2-4cc8-8e39-be71e829dbd8
+      a853877b-5e2d-4832-b562-df0e5533c781
+      cd0819e8-ce46-4030-8a6f-582dde40db09
+      df1b163d-8ea9-4ad5-8200-39b17c2c4bb7
+    )
+  )
 )
